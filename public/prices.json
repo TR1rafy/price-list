@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Starter",
+      "price": 19.99,
+      "features": [
+        "Gym access",
+        "Weights area",
+        "Cardio machines",
+        "Locker rental",
+        "Personalized plan",
+        "No contract"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 39.99,
+      "features": [
+        "All Starter features",
+        "Group classes",
+        "Personal training",
+        "Sauna and steam room",
+        "Month-to-month",
+        "10% off pro shop"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elite",
+      "price": 59.99,
+      "features": [
+        "All Premium features",
+        "Unlimited guests",
+        "Nutrition consultation",
+        "VIP locker access",
+        "Annual contract",
+        "20% off pro shop"
+      ]
+    }
+  ]
+  
